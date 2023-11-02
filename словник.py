@@ -14,7 +14,7 @@ while True:
     print("2 - Взяти книгу")
     print("3 - Повернути книгу")
     print("0 - Вихід")
-    x = input("вбири ")
+    x = input("вибери ")
     match x:
         case "0":
             print("Програма завершена.")
